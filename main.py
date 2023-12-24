@@ -139,9 +139,8 @@ async def respond(message: types.Message):
   
 if __name__ =="__main__":
   
-  print("files are")
-  print(file_ids)
-  #del db['assistant_id']
+  
+  #Ensure not creating a new assistant if the assistant already exists
   if 'assistant_id' not in db:
     assistant = create_assistant(assistant_name, instructions, files)
     print(assistant.assistant_id)
