@@ -1,0 +1,15 @@
+﻿Common substance,Common name,Alternative name,Dosage,Availability,Price
+C8H9NO2,Paracetamol,Acetaminophen,500 mg every 4 to 6 hours,1,9.72
+C8H9NO2,Acetaminophen,Paracetamol,500 mg every 4 to 6 hours,1,10.22
+C13H18O2,Ibuprofen,"Advil, Motrin",200 to 400 mg every 4 to 6 hours,0,8.34
+C13H18O2,Advil,Ibuprofen,200 to 400 mg every 4 to 6 hours,1,8.84
+C13H18O2,Motrin,Ibuprofen,200 to 400 mg every 4 to 6 hours,1,9.34
+C16H19N3O5S,Amoxicillin,"Amoxil, Trimox",250 to 500 mg every 8 hours,1,11.46
+C16H19N3O5S,Amoxil,Amoxicillin,250 to 500 mg every 8 hours,1,11.96
+C16H19N3O5S,Trimox,Amoxicillin,250 to 500 mg every 8 hours,1,12.46
+C17H19N3O3S,Omeprazole,"Prilosec, Losec",20 mg once daily,1,14.58
+C17H19N3O3S,Prilosec,Omeprazole,20 mg once daily,1,15.08
+C17H19N3O3S,Losec,Omeprazole,20 mg once daily,1,15.58
+C22H23ClN2O2,Loratadine,"Claritin, Alavert",10 mg once daily,0,13.7
+C22H23ClN2O2,Claritin,Loratadine,10 mg once daily,1,14.2
+C22H23ClN2O2,Alavert,Loratadine,10 mg once daily,1,14.7

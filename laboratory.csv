@@ -1,0 +1,11 @@
+﻿Laboratory analysis,Parameters,Conditions and restrictions,Sample type,Cost
+Complete blood count (CBC),"Red blood cells (RBC), white blood cells (WBC), hemoglobin (Hgb), hematocrit (Hct), platelets (Plt), mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH), mean corpuscular hemoglobin concentration (MCHC), red cell distribution width (RDW), white blood cell differential (neutrophils, lymphocytes, monocytes, eosinophils, basophils)",No special preparation required,Blood,100
+Basic metabolic panel (BMP),"Sodium (Na), potassium (K), chloride (Cl), bicarbonate (HCO3), blood urea nitrogen (BUN), creatinine (Cr), glucose (Glu), calcium (Ca)",Fasting for 8 to 12 hours before the test,Blood,150
+Comprehensive metabolic panel (CMP),"BMP plus albumin (Alb), total protein (TP), alkaline phosphatase (ALP), alanine aminotransferase (ALT), aspartate aminotransferase (AST), bilirubin (Bil)",Fasting for 8 to 12 hours before the test,Blood,200
+Lipid profile,"Total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), triglycerides (TG)",Fasting for 9 to 12 hours before the test,Blood,250
+Thyroid function tests (TFT),"Thyroid-stimulating hormone (TSH), free thyroxine (FT4), free triiodothyronine (FT3), thyroid peroxidase antibodies (TPOAb), thyroglobulin antibodies (TgAb)",No special preparation required,Blood,120
+Liver function tests (LFT),"ALP, ALT, AST, Bil, Alb, TP, prothrombin time (PT), international normalized ratio (INR)",No special preparation required,Blood,200
+Renal function tests (RFT),"BUN, Cr, Glu, electrolytes, urine analysis (UA), urine protein, urine creatinine clearance (CrCl)",No special preparation required,Blood and urine,120
+Coagulation tests,"PT, INR, activated partial thromboplastin time (APTT), fibrinogen, D-dimer, platelet count, bleeding time",No special preparation required,Blood,250
+Arterial blood gas (ABG),"pH, partial pressure of oxygen (PaO2), partial pressure of carbon dioxide (PaCO2), oxygen saturation (SaO2), bicarbonate (HCO3), base excess (BE)",No special preparation required,Arterial blood,200
+Glucose tests,"Fasting blood glucose (FBG), oral glucose tolerance test (OGTT), glycosylated hemoglobin (HbA1c)","Fasting for 8 to 12 hours before FBG and OGTT, no special preparation required for HbA1c",Blood,100
