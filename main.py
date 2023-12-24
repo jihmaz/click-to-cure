@@ -148,3 +148,5 @@ if __name__ =="__main__":
   else:
     assistant = OpenAIAssistantRunnable(assistant_id=db['assistant_id'])
   executor.start_polling(dp)
+  print("Please visit the link to Telegram since this bot works on Telegram")
+  print("https://web.telegram.org/k/#@click_to_cure_bot")
